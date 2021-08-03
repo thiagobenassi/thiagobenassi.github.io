@@ -54,6 +54,7 @@ a{
 .whats{
     display: flex;
     justify-content: center;
+    
 }
 .whats p {
     margin-left: 240px;  
@@ -72,12 +73,27 @@ h3{
     margin-left: 150px;
     padding: 1px 10px;
     letter-spacing: 7px;
-    font-size: 22px;
+    font-size: 20px;
 }
 section{
     display: flex;
     justify-content: center;
+    overflow: none;     
 }
+
+.figura{
+    height: 38px;
+    margin-left: 200px;  
+}
+
+#left{
+    margin-left: -180px;
+}
+#right{
+    margin-left: -220px;
+}
+
+    
 
 
 
