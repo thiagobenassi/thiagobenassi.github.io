@@ -154,7 +154,7 @@ section{
         box-shadow: 0 0 10px white;
         margin-top: 45px;
         margin-bottom: 15px;
-        margin-left: 100px;
+        margin-left: 120px;
         padding: 1px 10px;
         letter-spacing: 5px;
         font-size: 10px;
@@ -173,7 +173,7 @@ section{
     }
     
     #left{
-        margin-left: -190px;
+        margin-left: -170px;
     }
     #right{
         margin-left: -180px;
