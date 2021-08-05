@@ -93,7 +93,7 @@ section{
     margin-left: -220px;
 }
 
-@media (min-width:300px) and (max-width:600px){
+@media (max-width:600px){
     .avatar {
         width: 50px;
         border-radius: 20px;
@@ -130,7 +130,7 @@ section{
     }
     p{
         color: white;
-        margin-left: 150px;
+        margin-left: 190px;
         margin-top: -28px;
         letter-spacing: 1px;
         font-size: 12px;
@@ -152,31 +152,34 @@ section{
         border-radius: 30px;
         border: 3px solid black;
         box-shadow: 0 0 10px white;
-        margin-top: 45px;
+        margin-top: 60px;
         margin-bottom: 15px;
-        margin-left: 120px;
+        margin-left: 130px;
         padding: 1px 10px;
         letter-spacing: 5px;
         font-size: 10px;
+        justify-content: center;
     }
     section{
         display: flex;
         justify-content: center;
         overflow: none; 
-        font-size: 11px; 
+        font-size: 10px; 
         margin-top: 20px;   
     }   
     .figura{
-        height: 25px;
+        height: 28px;
         margin-left: 200px; 
  
     }
     
     #left{
-        margin-left: -170px;
+        margin-left: -190px;
+        margin-top: 20px;
     }
     #right{
-        margin-left: -180px;
+        margin-left: -200px;
+        margin-top: 20px;
     }
     
 }
